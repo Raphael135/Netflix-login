@@ -1,3 +1,3 @@
 # Netflix-login
-Projeto simples copiando a tela de login da Netflix utilizando HTML e CSS
+Concluí o projeto da tela de login da Netflix com sucesso, combinando habilidades de HTML e CSS para criar uma interface autêntica e atraente. Comecei estruturando a página com elementos semânticos, segui o design da Netflix com cores e fontes correspondentes. O formulário de login foi cuidadosamente desenvolvido com validações HTML5, e adicionei animações sutis para tornar a experiência do usuário mais agradável. Em resumo, o projeto resultou em uma tela de login que espelhava a estética da Netflix e oferecia funcionalidade e apelo visual. Foi uma experiência gratificante de desenvolvimento web.
 ![Resultado](https://github.com/Raphael135/Netflix-login/assets/145051566/cdf0b360-57c4-441f-b425-035bd56641ca)
